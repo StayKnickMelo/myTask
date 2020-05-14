@@ -1,0 +1,5 @@
+{
+  "MongoURI": "mongodb+srv://igor:12345@testtask-b5om6.mongodb.net/test?retryWrites=true&w=majority",
+  "PORT": 5000,
+  "JWTSecret": "somesecret"
+}
